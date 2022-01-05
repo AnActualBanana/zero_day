@@ -1,2 +1,1 @@
-some markup for presentation
-and a way to update
+This is a small Markdown text to present this project.
